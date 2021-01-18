@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:viewModels="clr-namespace:Videoteka.MobileApp.ViewModels.Rezervacije" 
+             xmlns:converters="clr-namespace:Videoteka.MobileApp.Converters"
+             mc:Ignorable="d"
+             x:Class="Videoteka.MobileApp.Views.Rezervacije.NovaRezervacijaPage"
+             BackgroundColor="White">
+
+    <ContentPage.BindingContext>
+        <viewModels:NovaRezervacijaViewModel></viewModels:NovaRezervacijaViewModel>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ImageConverter x:Key="imgConv"></converters:ImageConverter>
+        </ResourceDictionary>
+        <ResourceDictionary>
+            <converters:DatetimeToStringConverter x:Key="cnvDateTimeConverter"></converters:DatetimeToStringConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <Label Text="Iznajmite film"
+                   FontSize="25"
+                   TextColor="MediumPurple"
+                   FontAttributes="Bold"
+                   HorizontalTextAlignment="Center"/>
+
+            <Grid RowSpacing="20" Margin="20,15">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="100"></RowDefinition>
+                    <RowDefinition Height="100"></RowDefinition>
+                    <RowDefinition Height="45"></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0" Grid.Column="0" ColumnSpacing="0" BackgroundColor="White">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="350"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="Početak rezervacije:"
+                           FontSize="14"
+                           Grid.Row="0"
+                           TextColor="Black"
+                           FontAttributes="Bold"
+                           Grid.Column="0"
+                           Margin="15,0,0,0"/>
+
+                    <DatePicker Date="{Binding RezervacijaOd}"
+                                x:Name="rezervacijaod"
+                                Grid.Row="1"
+                                FontSize="13"
+                                Grid.Column="0"
+                                VerticalOptions="Center"
+                                Margin="15,0,0,0">
+                    </DatePicker>
+
+                    <Image Source="calendar.png" Grid.Row="1" Grid.Column="1" Margin="5,7">
+                        
+                    </Image>
+                    
+                </Grid>
+
+                <Grid Grid.Row="1" Grid.Column="0" ColumnSpacing="0" BackgroundColor="White">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="350"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Label Text="Kraj rezervacije:"
+                           FontSize="14"
+                           Grid.Row="0"
+                           FontAttributes="Bold"
+                           TextColor="Black"
+                           Grid.Column="0"
+                           Margin="15,0,0,0"/>
+
+                    <DatePicker Date="{Binding RezervacijaDo}"
+                                x:Name="rezervacijado"
+                                Grid.Row="1"
+                                FontSize="13"
+                                Grid.Column="0"
+                                VerticalOptions="Center"
+                                Margin="15,0,0,0"
+                                DateSelected="Rezervacijado_DateSelected">
+                    </DatePicker>
+
+                    <Image Source="calendar.png" Grid.Row="1" Grid.Column="1" Margin="5,7">
+
+                    </Image>
+
+                </Grid>
+
+                <Grid Grid.Row="2" Margin="0,5">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Button Command="{Binding RezervisiCommand}"
+                            Clicked="Button_Clicked"
+                            BackgroundColor="MediumPurple"
+                            Text="Završi"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            Grid.Row="0">
+                    </Button>
+                    
+                </Grid>
+
+            </Grid>
+            
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

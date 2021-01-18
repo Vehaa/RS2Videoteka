@@ -1,0 +1,27 @@
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.deps.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.AssemblyInfo.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.deps.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.AssemblyInfo.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.deps.json
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\bin\Debug\netstandard2.0\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.AssemblyInfo.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.Model\obj\Debug\netstandard2.0\Videoteka.Model.pdb

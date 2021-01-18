@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Videoteka.MobileApp.ViewModels.Rezervacije"
+             xmlns:converters="clr-namespace:Videoteka.MobileApp.Converters" xmlns:uc="clr-namespace:Videoteka.MobileApp.CustomViews"
+             mc:Ignorable="d"
+             x:Class="Videoteka.MobileApp.Views.Rezervacije.RezervacijaDetaljiPage">
+
+    <ContentPage.BindingContext>
+        <viewModels:RezervacijaDetaljiViewModel></viewModels:RezervacijaDetaljiViewModel>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ImageConverter x:Key="imgConv"></converters:ImageConverter>
+            <converters:RatingBarIsReadOnlyConverter x:Key="rbConv"></converters:RatingBarIsReadOnlyConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Orientation="Vertical">
+
+            <StackLayout BackgroundColor="MediumPurple">
+                <Label Margin="0,7"
+                       FontSize="16"
+                       TextColor="White"
+                       Text="Detalji rezervacije"
+                       HorizontalOptions="Center"/>
+            </StackLayout>
+
+            <Grid RowSpacing="6" Margin="0,0,0,70">
+                <Grid.RowDefinitions>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                    <RowDefinition></RowDefinition>
+                </Grid.RowDefinitions>
+
+                <Grid Grid.Row="0" BackgroundColor="White" Margin="0,1,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="5*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Label HorizontalOptions="Center"
+                           VerticalTextAlignment="Center"
+                           Grid.Row="0"
+                           Text="{Binding rezervacijaFilma.FilmInformacije}"
+                           TextColor="Black"
+                           FontAttributes="Bold"
+                           FontSize="18"/>
+
+                    <Image
+                           Margin="80,20"
+                           Source="{Binding rezervacijaFilma.SlikaThumb,Converter={StaticResource imgConv}}"
+                           Grid.Row="1"></Image>
+                    
+                </Grid>
+
+                <Grid Grid.Row="1" BackgroundColor="White" Padding="10,0,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Label  HorizontalOptions="Start"
+                            VerticalOptions="Center" 
+                            Grid.Row="0" 
+                            Text="Datum(od/do) " 
+                            FontSize="16" 
+                            TextColor="Black"></Label>
+                    <Label HorizontalOptions="Start"  
+                           Grid.Row="1"
+                           Text="{Binding rezervacijaFilma.RezervacijaOdDo}"
+                           TextColor="Gray"></Label>
+                </Grid>
+
+                <Grid Grid.Row="2" ColumnSpacing="1" BackgroundColor="White">
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Row="0" Grid.Column="0" >
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <StackLayout VerticalOptions="Center"
+                                     Orientation="Vertical"
+                                     Grid.Row="0">
+                            <Label Text="Cijena"
+                                   FontSize="16"
+                                   TextColor="Black"
+                                   HorizontalTextAlignment="Center"></Label>
+                            <Label Text="{Binding rezervacijaFilma.CijenaIznajmljivanja}"
+                                   TextColor="Purple"
+                                   HorizontalTextAlignment="Center"></Label>
+                        </StackLayout>
+                    </Grid>
+
+                    <Grid Grid.Row="0" Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <StackLayout VerticalOptions="Center"   Orientation="Vertical" Grid.Row="0">
+                            <Label Text="Trajanje" 
+                                   FontSize="16" 
+                                   TextColor="Black" 
+                                   HorizontalTextAlignment="Center"></Label>
+                            <Label Text="{Binding rezervacijaFilma.RezervacijaBrojDana}" 
+                                   TextColor="Purple"
+                                   HorizontalTextAlignment="Center"></Label>
+                        </StackLayout>
+                    </Grid>
+
+                    <Grid Grid.Row="0" Grid.Column="2">
+                        <Grid.RowDefinitions>
+                            <RowDefinition></RowDefinition>
+                        </Grid.RowDefinitions>
+                        <StackLayout VerticalOptions="Center"   Orientation="Vertical" Grid.Row="0">
+                            <Label Text="Ukupan iznos KM"
+                                   FontSize="16" 
+                                   FontAttributes="Bold" 
+                                   TextColor="Black" 
+                                   HorizontalTextAlignment="Center"></Label>
+                            <Label Text="{Binding rezervacijaFilma.IznosSaPopustom}" 
+                                   TextColor="Purple"
+                                   HorizontalTextAlignment="Center"></Label>
+                        </StackLayout>
+                    </Grid>
+
+
+                </Grid>
+
+                <Grid Grid.Row="3"
+                      Padding="0,5,0,0"
+                      IsVisible="False"
+                      x:Name="Red4Button">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition ></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Label HorizontalOptions="Center"
+                           Grid.Row="0" 
+                           FontAttributes="Bold"
+                           Text="Želiš otkazati rezervaciju ?"
+                           FontSize="15" 
+                           TextColor="Black"></Label>
+                    <Button Text="Otkaži"
+                            Grid.Row="1"
+                            Clicked="Button_Clicked"
+                            TextColor="White"
+                            FontAttributes="Bold"
+                            Margin="0,10,0,10"
+                            BackgroundColor="Red"
+                            Padding="50,0"
+                            HorizontalOptions="CenterAndExpand"></Button>
+
+
+                </Grid>
+
+                <!--Ocjena-->
+                <Grid Grid.Row="3"
+                      BackgroundColor="White"
+                      IsVisible="false"
+                      x:Name="Red4Ocjena">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"></RowDefinition>
+                        <RowDefinition ></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Label HorizontalOptions="CenterAndExpand"
+                           VerticalOptions="StartAndExpand"
+                           Grid.Row="0" 
+                           Text="Ocjena rezervacije"
+                           FontSize="15" 
+                           FontAttributes="Bold"
+                           TextColor="Black"></Label>
+                    <Label x:Name="OcjenaLabel"
+                           IsVisible="false"
+                           Grid.Row="0" 
+                           Text="{Binding rezervacijaFilma.Ocjena}"></Label>
+                    <uc:CustomRatingBar x:Name="customRatingBar"
+                                        Grid.Row="1"
+                                        Rating="{Binding rezervacijaFilma.Ocjena}"
+                                        MaxStars="5"
+                                        IsReadonly="False"
+                                        RatingChanged="OnRatingChanged"
+                                        Margin="0,5,0,5"
+                                        IsEnabled="{Binding rezervacijaFilma.IsOcjenjena, Converter={StaticResource rbConv}}"
+                                        HorizontalOptions="CenterAndExpand"
+                                        />
+
+                </Grid>
+
+            </Grid>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

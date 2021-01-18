@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Videoteka.MobileApp.ViewModels.Rezervacije" 
+             xmlns:converters="clr-namespace:Videoteka.MobileApp.Converters"
+             mc:Ignorable="d"
+             x:Class="Videoteka.MobileApp.Views.Rezervacije.MojeRezervacijePage">
+
+    <ContentPage.BindingContext>
+        <viewModels:RezervacijeViewModel ></viewModels:RezervacijeViewModel>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ImageConverter x:Key="imgConv"></converters:ImageConverter>
+        </ResourceDictionary>
+        <ResourceDictionary>
+            <converters:DatetimeToStringConverter x:Key="cnvDateTimeConverter"></converters:DatetimeToStringConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+    <ContentPage.Content>
+
+        <StackLayout BackgroundColor="White" 
+                     Orientation="Vertical"
+                     x:Name="sl">
+
+            <StackLayout BackgroundColor="MediumPurple">
+                <Label Margin="0,7" 
+                       FontSize="16" 
+                       TextColor="White" 
+                       Text="Moje rezervacije"
+                       HorizontalOptions="Center"></Label>
+            </StackLayout>
+            <StackLayout BackgroundColor="White" Orientation="Vertical" Margin="0,5">
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Label Text="Moje rezervacije :"
+                           TextColor="DarkGray"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                    <Label Text="{Binding UkupnoRezervacija}"
+                           TextColor="DarkGray"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Label Text="Završenih rezervacija :"
+                           TextColor="DarkGray"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                    <Label Text="{Binding UkupnoRezervacijaZavrsenih}"
+                           TextColor="DarkGray"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                </StackLayout>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Label Text="U toku :"
+                           TextColor="DarkGray"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                    <Label Text="{Binding UkupnoRezervacijaUToku}"
+                           TextColor="DarkGray"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                </StackLayout>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+                    <Label Text="Ukupno potrošeno :"
+                           TextColor="Purple"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                    <Label Text="{Binding UkupnoUtroseno}"
+                           TextColor="Purple"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                    <Label Text="KM"
+                           TextColor="Purple"
+                           LineBreakMode="NoWrap"
+                           Style="{DynamicResource ListItemTextStyle}" 
+                           FontSize="13"
+                           />
+                </StackLayout>
+            </StackLayout>
+
+
+            <Label Text="Završene rezervacije"
+                       TextColor="Black"
+                   Margin="10,0,0,0"
+                   FontSize="16"
+                   FontAttributes="Bold"
+                       ></Label>
+
+            <Switch Toggled="Switch_Toggled"
+                    Margin="10,10"
+                    OnColor="Pink"
+                    HorizontalOptions="Start"
+                    BackgroundColor="White"></Switch>
+
+            <ListView x:Name="UTokuRezervacije"
+                      IsVisible="True"
+                      ItemsSource="{Binding RezervacijeFilmaList}"
+                      ItemSelected="UTokuRezervacije_ItemSelected"
+                      RowHeight="130">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid   BackgroundColor="White" Margin="3,3" ColumnSpacing="0" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="200"></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <Image Grid.Column="0"
+                                           Source="{Binding SlikaThumb,Converter={StaticResource imgConv }}">
+                                </Image>
+
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+                                    
+                                    <Label Grid.Row="0"
+                                           Text="{Binding FilmInformacije}"
+                                           FontAttributes="Bold"
+                                           FontSize="16"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                    <StackLayout Grid.Row="1"
+                                                 Orientation="Horizontal">
+                                        <Label Text="Važi od: "
+                                               TextColor="Black"
+                                               LineBreakMode="NoWrap"
+                                               Style="{DynamicResource ListItemTextStyle}"
+                                               FontSize="14"/>
+
+                                        <Label Text="{Binding RezervacijaOd, Converter={StaticResource cnvDateTimeConverter}}" 
+                                               TextColor="Black"
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="14" />
+                                        
+                                    </StackLayout>
+
+                                    <StackLayout Grid.Row="2"
+                                                 Orientation="Horizontal">
+                                        <Label Text="Važi od: "
+                                               TextColor="Black"
+                                               LineBreakMode="NoWrap"
+                                               Style="{DynamicResource ListItemTextStyle}"
+                                               FontSize="14"/>
+
+                                        <Label Text="{Binding RezervacijaDo, Converter={StaticResource cnvDateTimeConverter}}" 
+                                               TextColor="Black"
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="14" />
+
+                                    </StackLayout>
+
+                                </Grid>
+
+                                <Grid Grid.Column="2">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <StackLayout Grid.Row="0"
+                                                 Orientation="Horizontal">
+
+                                        <Label Text="{Binding IznosSaPopustom}"
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap"
+                                               Style="{DynamicResource ListItemTextStyle}"
+                                               FontSize="18"/>
+
+                                        <Label Text="KM"
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap"
+                                               Style="{DynamicResource ListItemTextStyle}"
+                                               FontSize="18"/>
+
+                                    </StackLayout>
+
+                                </Grid>
+
+
+
+
+
+
+                            </Grid>
+
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <ListView x:Name="ZavrseneRezervacije"
+                      IsVisible="False"
+                      ItemsSource="{Binding RezervacijeFilmaListZavrsene}"
+                      ItemSelected="UTokuRezervacije_ItemSelected"                     
+                      RowHeight="130">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid   BackgroundColor="White" Margin="3,3" ColumnSpacing="0" >
+                                <Grid.RowDefinitions>
+                                    <RowDefinition ></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="3*" ></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <Grid Grid.Row="0"
+                                          RowSpacing="0"
+                                      Padding="15,0,0,0" >
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+
+                                    <!--RezervacijaOdDo-->
+                                    <Grid Grid.Row="1"
+                                          RowSpacing="0">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition></RowDefinition>
+                                            <RowDefinition></RowDefinition>
+                                        </Grid.RowDefinitions>
+
+                                        <!--RezervacijaOd-->
+                                        <StackLayout Grid.Row="0"
+                                                     Orientation="Horizontal">
+                                            <Label Text="Vazi od:" 
+                                               TextColor="Black "
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="14" />
+                                            <Label Text="{Binding RezervacijaOd, Converter={StaticResource cnvDateTimeConverter}}" 
+                                               TextColor="Black"
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="14" />
+
+                                        </StackLayout>
+
+                                        <!--RezervacijaDo-->
+                                        <StackLayout Grid.Row="1"
+                                                     Orientation="Horizontal">
+                                            <Label Text="Vazi do:" 
+                                               TextColor="Black "
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="14" />
+                                            <Label Text="{Binding RezervacijaDo, Converter={StaticResource cnvDateTimeConverter}}" 
+                                               TextColor="Black"
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="14" />
+                                        </StackLayout>
+
+                                    </Grid>
+
+                                    <!--Cijena-->
+                                    <StackLayout Grid.Row="2"
+                                                     Orientation="Horizontal"
+                                                 VerticalOptions="CenterAndExpand" >
+                                        <Label Text="Ukupan iznos:" 
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="15"
+                                               />
+                                        <Label Text="{Binding IznosSaPopustom}" 
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="15"
+                                               />
+                                        <Label Text="KM" 
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap" 
+                                               Style="{DynamicResource ListItemTextStyle}" 
+                                               FontSize="15"
+                                               />
+                                    </StackLayout>
+                                </Grid>
+
+
+                                <!--Kolona2-->
+                                <!--SlikaButton-->
+                                <Image Grid.Column="1"
+                                       Aspect="Fill"
+                                       Source="{Binding SlikaThumb, Converter={StaticResource imgConv}}"></Image>
+
+                            </Grid>
+
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+
+
+        </StackLayout>
+
+
+
+    </ContentPage.Content>
+</ContentPage>

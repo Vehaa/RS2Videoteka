@@ -1,0 +1,1 @@
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp.UWP\Videoteka.MobileApp.UWP.csproj;x86

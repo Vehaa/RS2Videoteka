@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "xGuZpGMVPmP8Uj2gTL4xn+/HJOrjAYvk2L3UKmq7i3kBK7QHZT2/oW9sf2q+jQkjv/TDLdwrIpI4apcFkE6rZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\38761\\Desktop\\Videoteka\\Videoteka.MobileApp\\Videoteka.MobileApp.iOS\\Videoteka.MobileApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38761\\.nuget\\packages\\flurl\\2.8.2\\flurl.2.8.2.nupkg.sha512",
+    "C:\\Users\\38761\\.nuget\\packages\\flurl.http\\2.4.2\\flurl.http.2.4.2.nupkg.sha512",
+    "C:\\Users\\38761\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\38761\\.nuget\\packages\\plugin.permissions\\3.0.0.12\\plugin.permissions.3.0.0.12.nupkg.sha512",
+    "C:\\Users\\38761\\.nuget\\packages\\system.componentmodel.annotations\\4.1.0\\system.componentmodel.annotations.4.1.0.nupkg.sha512",
+    "C:\\Users\\38761\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\38761\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "C:\\Users\\38761\\.nuget\\packages\\xam.plugin.media\\4.0.1.5\\xam.plugin.media.4.0.1.5.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,111 @@
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.deps.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\ref\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.Properties.Resources.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.GenerateResource.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\MoviesPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Filmovi\FilmoviPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\ChangePasswordPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\ProfileSettingsPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\RegistrationPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\PocetnaPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\NovaPorukaPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\PorukaDetaljiPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\PorukePage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\MojeRezervacijePage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\NovaRezervacijaPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\RezervacijaDetaljiPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.AssemblyInfo.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.CopyComplete
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\ref\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.deps.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\ref\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.Properties.Resources.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.GenerateResource.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\MoviesPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Filmovi\FilmoviPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\ChangePasswordPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\ProfileSettingsPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\RegistrationPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\PocetnaPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\NovaPorukaPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\PorukaDetaljiPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\PorukePage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\MojeRezervacijePage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\NovaRezervacijaPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\RezervacijaDetaljiPage.xaml.g.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.AssemblyInfo.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.CopyComplete
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\ref\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.deps.json
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\ref\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.MobileApp.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.Model.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\bin\Debug\netstandard2.0\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.Properties.Resources.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.GenerateResource.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\MoviesPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Filmovi\FilmoviPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\ChangePasswordPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\ProfileSettingsPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Klijenti\RegistrationPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\PocetnaPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\NovaPorukaPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\PorukaDetaljiPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Poruke\PorukePage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\MojeRezervacijePage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\NovaRezervacijaPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Views\Rezervacije\RezervacijaDetaljiPage.xaml.g.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.AssemblyInfo.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.csproj.CopyComplete
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\ref\Videoteka.MobileApp.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.MobileApp\Videoteka.MobileApp\obj\Debug\netstandard2.0\Videoteka.MobileApp.pdb

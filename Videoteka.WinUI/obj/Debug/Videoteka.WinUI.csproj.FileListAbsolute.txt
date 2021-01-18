@@ -1,0 +1,143 @@
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.exe.config
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.exe
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.xml
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.exe.config
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmFilmDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmFilmovi.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmNoviFilm.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.frmIndex.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.frmLogin.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmIzvjestaji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmKlijenti.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmKlijentiDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmNoviKlijent.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmKorisnici.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmKorisniciDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmNoviKorisnik.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmNovaPoruka.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPorukaDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPoslanePoruke.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPrimljenePoruke.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmProfil.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmProfilIzmjena.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmPromjenaLozike.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Properties.Resources.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Rezervacije.frmRezervacijaDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Rezervacije.frmRezervacije.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.GenerateResource.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.CopyComplete
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.exe
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.exe.config
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.exe
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.xml
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.exe.config
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmFilmDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmFilmovi.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmNoviFilm.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.frmIndex.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.frmLogin.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmIzvjestaji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmKlijenti.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmKlijentiDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmNoviKlijent.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmKorisnici.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmKorisniciDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmNoviKorisnik.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmNovaPoruka.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPorukaDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPoslanePoruke.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPrimljenePoruke.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmProfil.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmProfilIzmjena.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmPromjenaLozike.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Properties.Resources.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Rezervacije.frmRezervacijaDetalji.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Rezervacije.frmRezervacije.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.GenerateResource.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.CopyComplete
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.exe
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Države.frmDrzave.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Režiseri.frmReziseri.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Žanrovi.frmZanrovi.resources
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Gradovi.frmGradovi.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.exe.config
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.exe
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.WinUI.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.Http.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.Model.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.xml
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Flurl.Http.xml
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.exe.config
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Države.frmDrzave.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmFilmDetalji.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmFilmovi.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Filmovi.frmNoviFilm.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.frmIndex.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.frmLogin.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Gradovi.frmGradovi.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmIzvjestaji.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmKlijenti.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmKlijentiDetalji.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Klijenti.frmNoviKlijent.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmKorisnici.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmKorisniciDetalji.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Korisnici.frmNoviKorisnik.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmNovaPoruka.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPorukaDetalji.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPoslanePoruke.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Poruke.frmPrimljenePoruke.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmProfil.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmProfilIzmjena.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Profil.frmPromjenaLozike.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Properties.Resources.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Rezervacije.frmRezervacijaDetalji.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Rezervacije.frmRezervacije.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Režiseri.frmReziseri.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Žanrovi.frmZanrovi.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.GenerateResource.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.csproj.CopyComplete
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.exe
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmIRezervacijaM.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmIRezervacijaG.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmIRezervacijaUkupno.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmRezervacijaZaradaM.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmRezervracijaZaradaG.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmRezervacijeUkupnaZarada.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmFilmoviBroj.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmFilmoviDostupni.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmFilmoviNedostupni.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmKlijentiBroj.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmKlijentiM.resources
+C:\Users\38761\Desktop\Videoteka\Videoteka.WinUI\obj\Debug\Videoteka.WinUI.Izvjestaji.frmKlijentiG.resources

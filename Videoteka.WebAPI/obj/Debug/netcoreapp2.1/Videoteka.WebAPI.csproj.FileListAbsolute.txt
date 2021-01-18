@@ -1,0 +1,63 @@
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.deps.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.runtimeconfig.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.runtimeconfig.dev.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.AssemblyInfo.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorAssemblyInfo.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorAssemblyInfo.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csproj.CopyComplete
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.genruntimeconfig.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.deps.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.runtimeconfig.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.runtimeconfig.dev.json
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.Model.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.AssemblyInfo.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorAssemblyInfo.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorAssemblyInfo.cs
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csproj.CopyComplete
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.dll
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.pdb
+C:\Users\38761\Desktop\Seminarski RS2\Videoteka-RazvojSoftvera2\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.genruntimeconfig.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.deps.json
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.runtimeconfig.json
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.runtimeconfig.dev.json
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.WebAPI.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.Model.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\bin\Debug\netcoreapp2.1\Videoteka.Model.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csprojAssemblyReference.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.AssemblyInfoInputs.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.AssemblyInfo.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorAssemblyInfo.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorAssemblyInfo.cs
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.csproj.CopyComplete
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.dll
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.pdb
+C:\Users\38761\Desktop\Videoteka\Videoteka.WebAPI\obj\Debug\netcoreapp2.1\Videoteka.WebAPI.genruntimeconfig.cache

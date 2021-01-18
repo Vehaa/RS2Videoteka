@@ -1,0 +1,15 @@
+Desktop aplikacija
+
+username: admin
+password: test
+
+username: menadzer
+password: test
+
+username: uposlenik
+password: test
+
+Mobilna aplikacija
+
+username: mobile
+password: test

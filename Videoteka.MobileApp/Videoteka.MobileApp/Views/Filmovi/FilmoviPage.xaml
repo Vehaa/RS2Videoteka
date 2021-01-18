@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModels="clr-namespace:Videoteka.MobileApp.ViewModels.Filmovi" 
+             xmlns:converters="clr-namespace:Videoteka.MobileApp.Converters"
+             mc:Ignorable="d"
+             x:Class="Videoteka.MobileApp.Views.Filmovi.FilmoviPage">
+    <ContentPage.BindingContext>
+        <viewModels:FilmoviViewModel></viewModels:FilmoviViewModel>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <converters:ImageConverter x:Key="imgConv"></converters:ImageConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White"
+                     Orientation="Vertical"
+                     x:Name="s1">
+
+            <Label Text="Filmovi"
+                   HorizontalOptions="CenterAndExpand"
+                   FontSize="20"
+                   FontAttributes="Bold"/>
+            <Picker Title="Žanr"
+                    TitleColor="Black"
+                    Margin="10,0"
+                    ItemsSource="{Binding Zanrovi}"
+                    SelectedItem="{Binding SelectedZanr}"
+                    ItemDisplayBinding="{Binding Naziv}"></Picker>
+
+            <Label Text="Preporučeni filmovi za mene"
+                   TextColor="Black"
+                   FontSize="16"
+                   FontAttributes="Bold"/>
+
+            <Switch Toggled="Switch_Toggled"
+                    Margin="10,10"
+                    OnColor="Pink"
+                    HorizontalOptions="Start"
+                    BackgroundColor="White"></Switch>
+
+            <ListView ItemsSource="{Binding FilmoviList}" ItemSelected="SviFilmovi_ItemSelected"
+                      x:Name="SviFilmovi"
+                      IsVisible="True"
+                      RowHeight="110"
+                      Margin="0,10,0,0">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+
+                            <Grid BackgroundColor="White"
+                                  Padding="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="200"></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+                                                               
+                                <Image Grid.Column="0"
+                                           Source="{Binding Slika,Converter={StaticResource imgConv }}">
+                                 </Image>
+
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <Label Grid.Row="0" Text="{Binding Naziv}"
+                                           TextColor="Black"
+                                           FontAttributes="Bold"
+                                           FontSize="16"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                    <StackLayout Grid.Row="1"
+                                                 Orientation="Horizontal">
+                                        <Label Text="Godina: "
+                                           TextColor="Black"
+                                           FontSize="12"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                        <Label Text="{Binding Godina}"
+                                           TextColor="Black"
+                                           FontSize="12"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+                                    </StackLayout>
+
+                                    <StackLayout Grid.Row="2"
+                                                 Orientation="Horizontal">
+                                        <Label Text="Trajanje: "
+                                           TextColor="Black"
+                                           FontSize="11"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                        <Label Text="{Binding Trajanje}"
+                                           TextColor="Black"
+                                           FontSize="11"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                        <Label Text="min "
+                                           TextColor="Black"
+                                           FontSize="11"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+                                    </StackLayout>
+
+                                </Grid>
+
+                                <Grid Grid.Column="2">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <StackLayout Grid.Row="0"
+                                                 Orientation="Horizontal">
+
+                                        <Label Text="{Binding CijenaIznajmljivanja}"
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap"
+                                               Style="{DynamicResource ListItemTextStyle}"
+                                               FontSize="18"/>
+
+                                        <Label Text="KM"
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap"
+                                               Style="{DynamicResource ListItemTextStyle}"
+                                               FontSize="18"/>
+
+                                    </StackLayout>
+
+                                </Grid>
+                                             
+
+
+
+
+
+
+
+
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                
+                
+            </ListView>
+
+            <ListView ItemsSource="{Binding PreporuceniFilmovi}" ItemSelected="SviFilmovi_ItemSelected"
+                      x:Name="PreporuceniFilmovi"
+                      IsVisible="False"
+                      RowHeight="110"
+                      Margin="0,10,0,0">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+
+                            <Grid BackgroundColor="White"
+                                  Padding="10">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition></RowDefinition>
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition Width="200"></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
+                                </Grid.ColumnDefinitions>
+
+                                <Image Grid.Column="0"
+                                           Source="{Binding Slika,Converter={StaticResource imgConv }}">
+                                </Image>
+
+                                <Grid Grid.Column="1">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <Label Grid.Row="0" Text="{Binding Naziv}"
+                                           TextColor="Black"
+                                           FontAttributes="Bold"
+                                           FontSize="16"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                    <StackLayout Grid.Row="1"
+                                                 Orientation="Horizontal">
+                                        <Label Text="Godina: "
+                                           TextColor="Black"
+                                           FontSize="12"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                        <Label Text="{Binding Godina}"
+                                           TextColor="Black"
+                                           FontSize="12"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+                                    </StackLayout>
+
+                                    <StackLayout Grid.Row="2"
+                                                 Orientation="Horizontal">
+                                        <Label Text="Trajanje: "
+                                           TextColor="Black"
+                                           FontSize="11"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                        <Label Text="{Binding Trajanje}"
+                                           TextColor="Black"
+                                           FontSize="11"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+
+                                        <Label Text="min "
+                                           TextColor="Black"
+                                           FontSize="11"
+                                           LineBreakMode="NoWrap"
+                                           Style="{DynamicResource ListItemTextStyle}"/>
+                                    </StackLayout>
+
+                                </Grid>
+
+                                <Grid Grid.Column="2">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition></RowDefinition>
+                                        <RowDefinition></RowDefinition>
+                                    </Grid.RowDefinitions>
+
+                                    <StackLayout Grid.Row="0"
+                                                 Orientation="Horizontal">
+
+                                        <Label Text="{Binding CijenaIznajmljivanja}"
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap"
+                                               Style="{DynamicResource ListItemTextStyle}"
+                                               FontSize="18"/>
+
+                                        <Label Text="KM"
+                                               TextColor="Purple"
+                                               LineBreakMode="NoWrap"
+                                               Style="{DynamicResource ListItemTextStyle}"
+                                               FontSize="18"/>
+
+                                    </StackLayout>
+
+                                </Grid>
+
+
+
+
+
+
+
+
+
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+
+            </ListView>
+           
+
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
